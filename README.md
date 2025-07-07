@@ -25,5 +25,5 @@
  then we use stow to create symlinks
 
  ```
- $ stow .
+ $ stow {package name in dotfiles}
  ```
