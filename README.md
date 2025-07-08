@@ -7,7 +7,7 @@
  # Required
  
  make sure to install these thing to work:
- - nerdfetch (use yay if you on arch, more in their repo)
+ - nerdfetch (use yay to install if you on arch, more in their repo)
  - zsh
  - starship
  - JetBrainsMono Nerd Font
