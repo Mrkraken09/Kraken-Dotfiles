@@ -14,6 +14,7 @@
  - Kitty
  - git
  - stow
+ - eza
 
  # Install
 
